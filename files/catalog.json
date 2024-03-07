@@ -1,0 +1,76 @@
+[
+    {
+        "source": "cd",
+        "title": "Guts Album",
+        "subject": null,
+        "upc": null,
+        "artist": "Olivia Rodrigo"
+    },
+    {
+        "source": "book",
+        "title": "Red Queen",
+        "subject": "ini subject test",
+        "upc": null,
+        "issbn": "1345-123",
+        "authors": "Victoria Aveyard",
+        "dds_number": 123456
+    },
+    {
+        "source": "book",
+        "title": "Harry Potter",
+        "subject": "ini subject test",
+        "upc": null,
+        "issbn": "1345-123",
+        "authors": "J.K Rowling",
+        "dds_number": 123432
+    },
+    {
+        "source": "magazine",
+        "title": "Vogue",
+        "subject": "Summer Fashion 2024",
+        "upc": null,
+        "volume": "2",
+        "issue" : null
+    },
+    {
+        "source": "book",
+        "title": "Little Women",
+        "subject": null,
+        "upc": null,
+        "issbn": null,
+        "authors": "Louisa May Alcott",
+        "dds_number": 123412
+    },
+    {
+        "source": "magazine",
+        "title": "media_cnn test",
+        "subject": "subject",
+        "upc": null,
+        "volume": "volume 1",
+        "issue": "-"
+    },
+    {
+        "source": "magazine",
+        "title": "media_cnbc",
+        "subject": "subject",
+        "upc": null,
+        "volume": "volume 2",
+        "issue": "-"
+    },
+    {
+        "source": "dvd",
+        "title": "Twilight : Eclipse",
+        "subject": "ini subject dvd",
+        "upc": null,
+        "actors": "Kristen Stewart, Taylor Lautner",
+        "directors": null,
+        "genre": "Comedy"
+    },
+    {
+        "source": "cd",
+        "title": "Moonlight Album",
+        "subject": "Moonlight Album by Ariana Grande",
+        "upc": null,
+        "artist" : "Ariana Grande"
+    }
+]
